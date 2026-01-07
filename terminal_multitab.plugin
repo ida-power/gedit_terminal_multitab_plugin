@@ -1,0 +1,11 @@
+[Plugin]
+Loader=python3
+Module=terminal_multitab
+IAge=3
+Name=Multi-Tab Terminal
+Description=Integrate multi-tab terminal in Gedit (bottom panel)
+Authors=Tech Expert
+Copyright=Copyright (C) 2026
+Website=https://github.com/
+Version=1.0
+Enabled=true
